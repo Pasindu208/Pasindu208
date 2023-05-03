@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi 👋, I'm Pasindu Gamage
-<p align="justify">Just an 18-year-old guy from Panadura, Sri
+Just an 18-year-old guy from Panadura, Sri
                 Lanka. Computers have always fascinated me, and I've been tinkering
                 with them since I was a kid. Right now, I'm studying for my diploma in
                 IT at NCHS, and I hope to pursue a career in cybersecurity analysis.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
                 that I find relaxing. I also enjoy listening to chill music, whether
                 it's while I'm coding or just hanging out with friends.
                 All in all, I'm just a laid-back guy who's passionate about computers
-                and eager to learn more about the world of IT.</p>
+                and eager to learn more about the world of IT.
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu208" alt="pasindu208" /></a> </p> -->
 
