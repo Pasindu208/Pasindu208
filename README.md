@@ -9,8 +9,6 @@ it's while I'm coding 👨🏾‍💻 or just hanging out with friends.
 All in all, I'm just a laid-back guy who's passionate about computers
 and eager to learn more about the world of IT.
 
-<a href="https://twitter.com/udnisap208" target="blank"><img src="https://img.shields.io/twitter/follow/udnisap208?logo=twitter&style=for-the-badge" alt="udnisap208" /></a>
-
 - 🌱 I’m currently learning **C, C++, HTML, CSS, Javascript**
 
 - 📫 How to reach me **udnisap208@gmail.com**
