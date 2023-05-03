@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Pasindu Gamage</h1>
-<p align="center">Just an 18-year-old guy from Panadura, Sri
+<h1 align="left">Hi 👋, I'm Pasindu Gamage</h1>
+<p align="justify">Just an 18-year-old guy from Panadura, Sri
                 Lanka. Computers have always fascinated me, and I've been tinkering
                 with them since I was a kid. Right now, I'm studying for my diploma in
                 IT at NCHS, and I hope to pursue a career in cybersecurity analysis.
