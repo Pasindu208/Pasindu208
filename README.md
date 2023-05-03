@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Pasindu208/Pasindu208/output/snake.svg" alt="Snake animation" />
+
 # Hi 👋, I'm Pasindu Gamage
 Just an 18-year-old guy from Panadura, Sri Lanka 🇱🇰. Computers have always fascinated me 💻, and I've been tinkering with them since I was a kid. Right now, I'm studying for my diploma in IT at NCHS, and I hope to pursue a career in cybersecurity analysis 🔐.
 It's a challenging field, but I'm excited about the prospect of
