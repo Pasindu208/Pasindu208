@@ -1,4 +1,4 @@
-<!-- ![gif](https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif) -->
+![gif](https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif)
 <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" style="width: 100%">
 
 # Hi 👋, I'm Pasindu Gamage
