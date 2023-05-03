@@ -1,16 +1,13 @@
 # Hi 👋, I'm Pasindu Gamage
-Just an 18-year-old guy from Panadura, Sri
-                Lanka. Computers have always fascinated me, and I've been tinkering
-                with them since I was a kid. Right now, I'm studying for my diploma in
-                IT at NCHS, and I hope to pursue a career in cybersecurity analysis.
-                It's a challenging field, but I'm excited about the prospect of
-                keeping people's data safe from hackers.
-                When I'm not studying or working on my computer skills, I love to read
-                fantasy books. There's something about escaping into a magical world
-                that I find relaxing. I also enjoy listening to chill music, whether
-                it's while I'm coding or just hanging out with friends.
-                All in all, I'm just a laid-back guy who's passionate about computers
-                and eager to learn more about the world of IT.
+Just an 18-year-old guy from Panadura, Sri Lanka 🇱🇰. Computers have always fascinated me 💻, and I've been tinkering with them since I was a kid. Right now, I'm studying for my diploma in IT at NCHS, and I hope to pursue a career in cybersecurity analysis 🔐.
+It's a challenging field, but I'm excited about the prospect of
+keeping people's data safe from hackers 🕵️‍♂️.
+When I'm not studying or working on my computer skills, I love to read
+fantasy books 📚. There's something about escaping into a magical world
+that I find relaxing. I also enjoy listening to chill music 🎧, whether
+it's while I'm coding 👨🏾‍💻 or just hanging out with friends.
+All in all, I'm just a laid-back guy who's passionate about computers
+and eager to learn more about the world of IT.
 
 <a href="https://twitter.com/udnisap208" target="blank"><img src="https://img.shields.io/twitter/follow/udnisap208?logo=twitter&style=for-the-badge" alt="udnisap208" /></a>
 
