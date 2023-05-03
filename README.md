@@ -31,7 +31,6 @@ Just an 18-year-old guy from Panadura, Sri
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu208&show_icons=true&locale=en&layout=compact" alt="pasindu208" />
 <br><br>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu208&show_icons=true&locale=en" alt="pasindu208" />
 <br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu208&" alt="pasindu208" />
