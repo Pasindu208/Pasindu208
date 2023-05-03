@@ -20,12 +20,12 @@ Here are some ideas to get you started:
                 with them since I was a kid. Right now, I'm studying for my diploma in
                 IT at NCHS, and I hope to pursue a career in cybersecurity analysis.
                 It's a challenging field, but I'm excited about the prospect of
-                keeping people's data safe from hackers.<br />
+                keeping people's data safe from hackers.
 
                 When I'm not studying or working on my computer skills, I love to read
                 fantasy books. There's something about escaping into a magical world
                 that I find relaxing. I also enjoy listening to chill music, whether
-                it's while I'm coding or just hanging out with friends.<br />
+                it's while I'm coding or just hanging out with friends.
 
                 All in all, I'm just a laid-back guy who's passionate about computers
                 and eager to learn more about the world of IT.</p>
