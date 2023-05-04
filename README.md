@@ -1,5 +1,5 @@
-![gif](https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif){: width="100%" }
-<!-- <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" style="width: 100% align: center"> -->
+<!-- ![gif](https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif){: width="100%" } -->
+<img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" style="max-width: 100% ">
 
 # Hi 👋, I'm Pasindu Gamage
 Just an 18-year-old guy from Panadura, Sri Lanka 🇱🇰. Computers have always fascinated me 💻, and I've been tinkering with them since I was a kid. Right now, I'm studying for my diploma in IT at NCHS, and I hope to pursue a career in cybersecurity analysis 🔐.
