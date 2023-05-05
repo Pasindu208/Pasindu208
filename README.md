@@ -31,6 +31,9 @@ and eager to learn more about the world of IT.
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Visual studio code](https://img.shields.io/badge/Visual%20Studio%20Code-%23000000.svg?style=flat&logo=visual-studio-code&logoColor=blue)
 <br><br>
+
+## Stats:
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu208&show_icons=true&locale=en&layout=compact" alt="pasindu208" />
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu208&show_icons=true&locale=en" alt="pasindu208" />
