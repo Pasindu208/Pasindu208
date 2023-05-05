@@ -16,7 +16,7 @@ and eager to learn more about the world of IT.
 
 - 📫 How to reach me **udnisap208@gmail.com**
 
-## Connect with me:
+## 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/udnisap208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udnisap208" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pasindugamage208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindugamage208" height="30" width="40" /></a>
@@ -32,7 +32,7 @@ and eager to learn more about the world of IT.
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Visual studio code](https://img.shields.io/badge/Visual%20Studio%20Code-%23000000.svg?style=flat&logo=visual-studio-code&logoColor=blue)
 
 
-## Stats:
+## 📈 Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu208&show_icons=true&locale=en&layout=compact" alt="pasindu208" />
 
