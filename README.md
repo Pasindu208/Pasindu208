@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" width="100%">
 
 # Hi 👋, I'm Pasindu Gamage
-Just an 18-year-old guy from Panadura, Sri Lanka 🇱🇰. Computers have always fascinated me 💻, and I've been tinkering with them since I was a kid. Right now, I'm studying for my diploma in IT at NCHS, and I hope to pursue a career in cybersecurity analysis 🔐.
+Just a guy from Panadura, Sri Lanka 🇱🇰. Computers have always fascinated me 💻, and I've been tinkering with them since I was a kid. Right now, I'm studying for my diploma in IT at NCHS, and I hope to pursue a career in cybersecurity analysis 🔐.
 It's a challenging field, but I'm excited about the prospect of
 keeping people's data safe from hackers 🕵️‍♂️.
 When I'm not studying or working on my computer skills, I love to read
