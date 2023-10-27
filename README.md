@@ -4,7 +4,7 @@
 # Hi 👋, I'm Pasindu Gamage
 Just a guy from Sri Lanka 🇱🇰. 
 
-- 🌱 I’m currently learning **C, C++, HTML, CSS, Javascript**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **udnisap208@gmail.com**
 
