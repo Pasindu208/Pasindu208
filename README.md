@@ -1,6 +1,3 @@
-<!-- ![gif](https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif){: width="100%" } -->
-<img src="https://media.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" width="100%">
-
 # Hi 👋, I'm Pasindu Gamage
 Just a guy from Sri Lanka 🇱🇰. 
 
