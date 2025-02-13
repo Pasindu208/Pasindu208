@@ -2,7 +2,7 @@
 
 ## 💫 About Me  
 🚀 Passionate about Cyber Security & Full-Stack Development  
-🔭 Currently working on a **blog site** following a tutorial  
+🔭 Currently working on a **wiki site** on Harry Potter universe    
 🌱 Learning **React** to expand my front-end skills  
 👯 Open to collaborating on **Cyber Security** and **Web Development** projects  
 
@@ -26,7 +26,7 @@
 
 ### ☁️ Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)       
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white)  
 
 ### 🛢️ Databases & Other Tools  
